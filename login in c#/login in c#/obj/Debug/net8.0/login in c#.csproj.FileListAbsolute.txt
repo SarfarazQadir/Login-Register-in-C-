@@ -1,0 +1,14 @@
+F:\C#\login in c#\login in c#\bin\Debug\net8.0\login in c#.exe
+F:\C#\login in c#\login in c#\bin\Debug\net8.0\login in c#.deps.json
+F:\C#\login in c#\login in c#\bin\Debug\net8.0\login in c#.runtimeconfig.json
+F:\C#\login in c#\login in c#\bin\Debug\net8.0\login in c#.dll
+F:\C#\login in c#\login in c#\bin\Debug\net8.0\login in c#.pdb
+F:\C#\login in c#\login in c#\obj\Debug\net8.0\login in c#.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\login in c#\login in c#\obj\Debug\net8.0\login in c#.AssemblyInfoInputs.cache
+F:\C#\login in c#\login in c#\obj\Debug\net8.0\login in c#.AssemblyInfo.cs
+F:\C#\login in c#\login in c#\obj\Debug\net8.0\login in c#.csproj.CoreCompileInputs.cache
+F:\C#\login in c#\login in c#\obj\Debug\net8.0\login in c#.dll
+F:\C#\login in c#\login in c#\obj\Debug\net8.0\refint\login in c#.dll
+F:\C#\login in c#\login in c#\obj\Debug\net8.0\login in c#.pdb
+F:\C#\login in c#\login in c#\obj\Debug\net8.0\login in c#.genruntimeconfig.cache
+F:\C#\login in c#\login in c#\obj\Debug\net8.0\ref\login in c#.dll
